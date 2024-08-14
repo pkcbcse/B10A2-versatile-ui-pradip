@@ -465,6 +465,7 @@ select {
 }
 
 /* Meet our team section style  */
+
 .our-team-heading {
   max-width: 600px;
   margin: 0 auto;
@@ -515,7 +516,8 @@ select {
   background: none;
 }
 
-/* Our team section responsive */
+/* Meet our team section responsive */
+
 @media screen and (max-width: 576px) {
   .team-images {
     margin: 30px 20px;
