@@ -313,6 +313,7 @@ header {
 }
 
 /* Run an Extra Mile Easily section style */
+
 .run-container {
   background: #222222;
   margin-top: 80px;
@@ -351,7 +352,8 @@ header {
   border-radius: 20px;
 }
 
-/* run section resfonsive */
+/* Run an Extra Mile Easily section responsive */
+
 @media screen and (max-width: 576px) {
   .run-container {
     flex-direction: column;
@@ -366,6 +368,7 @@ header {
 }
 
 /* BMI Calculate section style */
+
 .calculator-container {
   max-width: 1005px;
   margin: 0 auto;
