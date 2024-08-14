@@ -573,7 +573,7 @@ footer {
   color: rgba(255, 255, 255, 0.5);
 }
 
-/* footer content responsive */
+/* footer section responsive */
 
 @media screen and (max-width: 576px) {
   .footer-content {
