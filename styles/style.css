@@ -67,7 +67,7 @@ header {
   display: none;
 }
 
-/* navbar section responsive */
+/* navbar section responsive completed */
 
 @media screen and (max-width: 576px) {
   .navbar {
