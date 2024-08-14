@@ -509,7 +509,7 @@ select {
   }
 }
 
-/* footer section */
+/* footer section style */
 
 footer {
   max-width: 1005px;
@@ -558,6 +558,7 @@ footer {
 }
 
 /* footer content responsive */
+
 @media screen and (max-width: 576px) {
   .footer-content {
     flex-direction: column;
