@@ -168,6 +168,7 @@ header {
     flex-direction: column;
     padding: 0px 20px;
   }
+
   .banner-text h2 {
     font-size: 2.5rem;
   }
@@ -175,6 +176,7 @@ header {
     margin-top: 30px;
     width: 100%;
   }
+
   .bottom {
     left: 0%;
   }
