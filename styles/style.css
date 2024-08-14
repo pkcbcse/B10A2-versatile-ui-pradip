@@ -261,6 +261,7 @@ header {
 /* About us section end */
 
 /* habit section style */
+
 .habit-section-container {
   background: rgb(0, 0, 0);
   margin-top: 80px;
@@ -300,7 +301,8 @@ header {
   font-size: 0.85rem;
 }
 
-/* Habit section resfonsive */
+/* Habit section responsive completed */
+
 @media screen and (max-width: 576px) {
   .habit-section-img {
     grid-template-columns: 1fr;
