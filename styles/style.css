@@ -442,6 +442,8 @@ select {
   grid-column: span 2;
 }
 
+/* BMI Calculate section responsive */
+
 @media screen and (max-width: 576px) {
   .calculator-content {
     flex-direction: column;
