@@ -22,7 +22,7 @@ body {
   margin: 0 auto;
 }
 
-/* header css */
+/* header style */
 
 header {
   background: linear-gradient(
@@ -32,7 +32,7 @@ header {
   );
 }
 
-/* navbar section */
+/* navbar section style */
 .navbar {
   padding-top: 20px;
   align-items: center;
