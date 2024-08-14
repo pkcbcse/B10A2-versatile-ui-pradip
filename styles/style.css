@@ -215,6 +215,7 @@ header {
 }
 
 /* experiences part style */
+
 .experiences {
   margin-top: 50px;
   display: grid;
@@ -240,6 +241,7 @@ header {
   border-left: 2px solid rgba(255, 255, 255, 0.5);
   padding-left: 20px;
 }
+/* About section responsive completed */
 
 @media screen and (max-width: 576px) {
   .about-container {
@@ -255,6 +257,7 @@ header {
     grid-template-columns: repeat(2, 1fr);
   }
 }
+
 /* About us section end */
 
 /* habit section style */
